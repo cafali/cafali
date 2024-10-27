@@ -1,4 +1,4 @@
-## [cafali.art](https://cafali.art) 👀
+ # [cafali.art](https://cafali.art) 👻
 
 ```bash
 $ su
